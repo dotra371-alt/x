@@ -1,15 +1,31 @@
-00_Consulta_sobre_el_tema.txt | 00_Consulta_sobre_el_tema_chunk_001.txt | 14013 total chars | 81 lines | 13910 source chars
-00_Consulta_sobre_el_tema.txt | 00_Consulta_sobre_el_tema_chunk_002.txt | 8709 total chars | 71 lines | 8658 source chars
-01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_001.txt | 14072 total chars | 139 lines | 13947 source chars
-01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_002.txt | 14069 total chars | 156 lines | 13944 source chars
-01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_003.txt | 14049 total chars | 183 lines | 13924 source chars
-01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_004.txt | 1269 total chars | 19 lines | 1218 source chars
-02_Sacred_Mountain_Path_Prayer_Journey.txt | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_001.txt | 14109 total chars | 140 lines | 13993 source chars
-02_Sacred_Mountain_Path_Prayer_Journey.txt | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_002.txt | 2321 total chars | 30 lines | 2270 source chars
-03_oracion_espanol_sencilla.txt | 03_oracion_espanol_sencilla_chunk_001.txt | 14066 total chars | 184 lines | 13961 source chars
-03_oracion_espanol_sencilla.txt | 03_oracion_espanol_sencilla_chunk_002.txt | 3810 total chars | 53 lines | 3759 source chars
-04_Rompe_el_Ciclo_Notebook_A.txt | 04_Rompe_el_Ciclo_Notebook_A_chunk_001.txt | 14034 total chars | 327 lines | 13928 source chars
-04_Rompe_el_Ciclo_Notebook_A.txt | 04_Rompe_el_Ciclo_Notebook_A_chunk_002.txt | 5575 total chars | 169 lines | 5524 source chars
-05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_001.txt | 14030 total chars | 371 lines | 13924 source chars
-05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_002.txt | 14060 total chars | 345 lines | 13954 source chars
-05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_003.txt | 1918 total chars | 61 lines | 1867 source chars
+Machine-readable GitHub chunk manifest
+Each chunk contains ONLY original UTF-8 source text.
+Target: <= 6000 source characters per chunk.
+
+00_Consulta_sobre_el_tema.txt | 00_Consulta_sobre_el_tema_chunk_001.txt | 5817 source chars | 29 lines
+00_Consulta_sobre_el_tema.txt | 00_Consulta_sobre_el_tema_chunk_002.txt | 5883 source chars | 30 lines
+00_Consulta_sobre_el_tema.txt | 00_Consulta_sobre_el_tema_chunk_003.txt | 5952 source chars | 49 lines
+00_Consulta_sobre_el_tema.txt | 00_Consulta_sobre_el_tema_chunk_004.txt | 4916 source chars | 37 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_001.txt | 5908 source chars | 59 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_002.txt | 5949 source chars | 56 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_003.txt | 5915 source chars | 56 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_004.txt | 5985 source chars | 67 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_005.txt | 5926 source chars | 68 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_006.txt | 5909 source chars | 75 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_007.txt | 5923 source chars | 79 lines
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_008.txt | 1518 source chars | 20 lines
+02_Sacred_Mountain_Path_Prayer_Journey.txt | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_001.txt | 5945 source chars | 59 lines
+02_Sacred_Mountain_Path_Prayer_Journey.txt | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_002.txt | 5905 source chars | 56 lines
+02_Sacred_Mountain_Path_Prayer_Journey.txt | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_003.txt | 4413 source chars | 48 lines
+03_oracion_espanol_sencilla.txt | 03_oracion_espanol_sencilla_chunk_001.txt | 5949 source chars | 77 lines
+03_oracion_espanol_sencilla.txt | 03_oracion_espanol_sencilla_chunk_002.txt | 5989 source chars | 79 lines
+03_oracion_espanol_sencilla.txt | 03_oracion_espanol_sencilla_chunk_003.txt | 5782 source chars | 74 lines
+04_Rompe_el_Ciclo_Notebook_A.txt | 04_Rompe_el_Ciclo_Notebook_A_chunk_001.txt | 5929 source chars | 142 lines
+04_Rompe_el_Ciclo_Notebook_A.txt | 04_Rompe_el_Ciclo_Notebook_A_chunk_002.txt | 5977 source chars | 128 lines
+04_Rompe_el_Ciclo_Notebook_A.txt | 04_Rompe_el_Ciclo_Notebook_A_chunk_003.txt | 5876 source chars | 164 lines
+04_Rompe_el_Ciclo_Notebook_A.txt | 04_Rompe_el_Ciclo_Notebook_A_chunk_004.txt | 1670 source chars | 55 lines
+05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_001.txt | 5952 source chars | 174 lines
+05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_002.txt | 5944 source chars | 142 lines
+05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_003.txt | 5969 source chars | 148 lines
+05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_004.txt | 5990 source chars | 128 lines
+05_Rompe_el_Ciclo_Notebook_B.txt | 05_Rompe_el_Ciclo_Notebook_B_chunk_005.txt | 5890 source chars | 173 lines
