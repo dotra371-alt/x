@@ -1,5 +1,3 @@
-SOURCE: 00_Consulta_sobre_el_tema.txt
-CHUNK: 2 OF 2
 --- BEGIN SOURCE TEXT ---
 Response: Now, let this radiant light flow into your heart, dissolving any fear or doubt, and replacing it with the absolute certainty of your spiritual power and purpose.
 User prompt: Could you please talk a little bit slower and repeat what you just said?
@@ -70,5 +68,4 @@ User prompt: But we we said that instead of being stronger, there there's a divi
 Response: That's correct. Resilience is an expression of that divine connection, meaning every challenge allows you to recognize your higher purpose and profound spiritual evolution.
 User prompt: Okay. Okay. So, um um create create an LDS church prayer for for what I'm what what for what we are talking.
 Response: You might start your prayer by saying, 'Heavenly Father, I come before Thee to acknowledge my divine connection. Please help me see my challenges as expressions of strength and grace, and guide me to trust the unfolding of my journey toward deeper peace,' and conclude by saying, 'In the name of Jesus Christ, amen.'
-
 --- END SOURCE TEXT ---

@@ -1,5 +1,3 @@
-SOURCE: 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt
-CHUNK: 4 OF 4
 --- BEGIN SOURCE TEXT ---
 profunda y de los valles más solitarios. Reconozco que las pruebas y los dolores del pasado no fueron 
 castigos, sino el fuego refinador con el que has purificado mi fe, fortalecido mi espíritu y tejido patrones de 
@@ -18,5 +16,4 @@ testimonio constante de Tu gracia.
 Acepto todas estas bendiciones con absoluta y humilde certeza, en el nombre sagrado de Tu Hijo, 
 Jesucristo. 
 Amén.
-
 --- END SOURCE TEXT ---

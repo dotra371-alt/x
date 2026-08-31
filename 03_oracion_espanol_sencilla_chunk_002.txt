@@ -1,5 +1,3 @@
-SOURCE: 03_oracion_espanol_sencilla.txt
-CHUNK: 2 OF 2
 --- BEGIN SOURCE TEXT ---
 Te pido que la paz de Tu Santo Espíritu llene mi alma y que esta luz siempre brille como una prueba 
 constante de Tu bondad. 
@@ -52,5 +50,4 @@ humildad que, aunque mi mente humana es pequeña y no lo sabe todo, Tu amor es t
 todo lo que me falta. 
 Acepto que soy humano y que tengo límites, pero estoy profundamente agradecido porque Tu amor nunca 
 cambia y me sostiene exactamente ahí, en mi debilidad, dándome un profundo agradecimiento de paz.
-
 --- END SOURCE TEXT ---
