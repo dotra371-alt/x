@@ -1,0 +1,15 @@
+00_Consulta_sobre_el_tema.txt | chunk 1/2 | 00_Consulta_sobre_el_tema_chunk_001.txt | 14013 chars | 81 lines | source text 13910 chars
+00_Consulta_sobre_el_tema.txt | chunk 2/2 | 00_Consulta_sobre_el_tema_chunk_002.txt | 8762 chars | 74 lines | source text 8658 chars
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | chunk 1/4 | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_001.txt | 14072 chars | 139 lines | source text 13947 chars
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | chunk 2/4 | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_002.txt | 14069 chars | 156 lines | source text 13944 chars
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | chunk 3/4 | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_003.txt | 14049 chars | 183 lines | source text 13924 chars
+01_Sanacion_espiritual_y_resiliencia_en_Ruidoso.txt | chunk 4/4 | 01_Sanacion_espiritual_y_resiliencia_en_Ruidoso_chunk_004.txt | 1344 chars | 22 lines | source text 1218 chars
+02_Sacred_Mountain_Path_Prayer_Journey.txt | chunk 1/2 | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_001.txt | 14109 chars | 140 lines | source text 13993 chars
+02_Sacred_Mountain_Path_Prayer_Journey.txt | chunk 2/2 | 02_Sacred_Mountain_Path_Prayer_Journey_chunk_002.txt | 2387 chars | 33 lines | source text 2270 chars
+03_oracion_espanol_sencilla.txt | chunk 1/2 | 03_oracion_espanol_sencilla_chunk_001.txt | 14066 chars | 184 lines | source text 13961 chars
+03_oracion_espanol_sencilla.txt | chunk 2/2 | 03_oracion_espanol_sencilla_chunk_002.txt | 3865 chars | 56 lines | source text 3759 chars
+04_Rompe_el_Ciclo_Notebook_A.txt | chunk 1/2 | 04_Rompe_el_Ciclo_Notebook_A_chunk_001.txt | 14034 chars | 327 lines | source text 13928 chars
+04_Rompe_el_Ciclo_Notebook_A.txt | chunk 2/2 | 04_Rompe_el_Ciclo_Notebook_A_chunk_002.txt | 5631 chars | 172 lines | source text 5524 chars
+05_Rompe_el_Ciclo_Notebook_B.txt | chunk 1/3 | 05_Rompe_el_Ciclo_Notebook_B_chunk_001.txt | 14030 chars | 371 lines | source text 13924 chars
+05_Rompe_el_Ciclo_Notebook_B.txt | chunk 2/3 | 05_Rompe_el_Ciclo_Notebook_B_chunk_002.txt | 14060 chars | 345 lines | source text 13954 chars
+05_Rompe_el_Ciclo_Notebook_B.txt | chunk 3/3 | 05_Rompe_el_Ciclo_Notebook_B_chunk_003.txt | 1974 chars | 64 lines | source text 1867 chars
